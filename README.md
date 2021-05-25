@@ -30,3 +30,6 @@ Before proceeding, please ensure you have the following software installed on yo
 - Git command line tools
 
 ### Useful links
+ - ``Server Deployment URL: https://sillyfy.herokuapp.com/``
+ - ``UI GitHub Repo Link: https://github.com/NazeeshaPattan/Sillify-url-shortener-ui``
+
